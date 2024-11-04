@@ -7,7 +7,7 @@ export default function Exemplo1() {
 
 
   useEffect(()=>{
-    fetch("http://localhost:5000/produtos")
+    fetch("https://bd-1-espk-rho.vercel.app/produto")
     .then((res)=>{
       return res.json()
     }).then((res)=>

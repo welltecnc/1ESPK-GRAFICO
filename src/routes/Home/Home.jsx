@@ -18,7 +18,7 @@ export default function Home() {
 
 const handleSubmit=(e)=>{
   e.preventDefault()
-  fetch(`http://localhost:5000/produtos`,{
+  fetch(`https://bd-1-espk-rho.vercel.app/produto`,{
     method:"post",
     headers:{
       "Content-Type":"application/json",
