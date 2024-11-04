@@ -20,5 +20,17 @@
       "nome": "bicicleta",
       "unidade": "30"
     }
+  ],
+  "cliente": [
+    {
+      "id": "f5e2",
+      "nome": "Cidade",
+      "email": "cidade@cidade.com.br"
+    },
+    {
+      "id": "be2b",
+      "nome": "Cidade1",
+      "email": "cidade1@cidade.com.br"
+    }
   ]
 }
