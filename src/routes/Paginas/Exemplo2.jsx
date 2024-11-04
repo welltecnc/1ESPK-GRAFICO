@@ -17,7 +17,7 @@ export default function Exemplo2() {
 
 const handleSubmit=(e)=>{
   e.preventDefault()
-  fetch(`https://bd-1-espk-rho.vercel.app/cliente`,{
+  fetch(`http://localhost:5000/cliente`,{
     method:"post",
     headers:{
       "Content-Type":"application/json",
