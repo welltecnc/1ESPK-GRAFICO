@@ -1,0 +1,24 @@
+{
+  "produtos": [
+    {
+      "id": "3f6e",
+      "nome": "Mouse",
+      "unidade": "10"
+    },
+    {
+      "id": "1cdb",
+      "nome": "Teclado ",
+      "unidade": "20"
+    },
+    {
+      "id": "f9d8",
+      "nome": "Phone",
+      "unidade": "80"
+    },
+    {
+      "id": "bd49",
+      "nome": "bicicleta",
+      "unidade": "30"
+    }
+  ]
+}
